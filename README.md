@@ -4,4 +4,4 @@
 - 🎨 Doing art n crafts
 - 🎹 Playing the Piano
 - 🎵 Listening to music </p>
-<a> </a>
+<a> typing... are you still here? click me! https://cozytypes.com/ </a> 
