@@ -2,7 +2,6 @@
 <p> Hi! I’m Ashlyne, a curious and creative student who loves exploring new ideas. I enjoy learning new skills, solving problems, and creating projects that reflect my ideas and interests. I’m always excited to grow, experiment, and have fun while learning!</p>
 <p> My Hobbies!
 - 🎨 Doing art n crafts
-- 💻 Coding small projects
 - 🎹 Playing the Piano
 - 🎵 Listening to music </p>
 <a> </a>
